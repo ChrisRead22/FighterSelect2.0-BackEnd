@@ -40,7 +40,7 @@ class FightersController < ApplicationController
     private
 
     def fighter_params
-        params.permit(:name, :image, :supermove, :fighting_game_id, :fight_style_id)
+        params.require(:fighter).permit(:name, :image, :supermove, :fighting_game_id, :fight_style_id)
     end
 
 
