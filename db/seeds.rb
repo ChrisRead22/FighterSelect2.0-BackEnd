@@ -43,7 +43,7 @@ FighterTB2 = Fighter.create(
     fighting_game_id: FightingGame1.id,
     fight_style_id: FightStyle1.id,
     name: "Bryan Fury",
-    image: "https://static.wikia.nocookie.net/tekken/images/f/f1/Bryan_T7FR.jpg/revision/latest/top-crop/width/360/height/450?cb=20201009053018&path-prefix=en",
+    image: "https://i.pinimg.com/originals/37/87/23/378723ce0d3d3c3dc3e8924bf30aedbd.jpg",
     supermove: "During Rage, Down/Foward + 1 + 2"
 )
 
@@ -61,7 +61,7 @@ FighterTG1 = Fighter.create(
     fighting_game_id: FightingGame1.id,
     fight_style_id: FightStyle2.id,
     name: "King",
-    image: "https://static.wikia.nocookie.net/tekken/images/4/42/T7FR_King.jpg/revision/latest?cb=20170706000757&path-prefix=en",
+    image: "http://i1.wp.com/shoryuken.com/wp-content/uploads/2017/06/king.png?fit=750%2C400&resize=750%2C400",
     supermove: "During Rage, Down/Back + 1 + 2"
 )
 
@@ -69,7 +69,7 @@ FighterTG2 = Fighter.create(
     fighting_game_id: FightingGame1.id,
     fight_style_id: FightStyle2.id,
     name: "Dragunov",
-    image: "https://static.wikia.nocookie.net/tekken/images/3/35/Dragunov_Tekken_7_Fated_Retribution.jpg/revision/latest?cb=20160704181205&path-prefix=en",
+    image: "https://www.fightersgeneration.com/nf2/game/tekken-mobile/2/dragunov-tekken-mobile-alt-tekken7-costume.png",
     supermove: "During Rage, Down + 1 + 2"
 )
 
@@ -77,7 +77,7 @@ FighterTG3 = Fighter.create(
     fighting_game_id: FightingGame1.id,
     fight_style_id: FightStyle2.id,
     name: "Marduk",
-    image: "https://static.wikia.nocookie.net/tekken/images/1/11/Craig_Marduk_T7.jpg/revision/latest?cb=20181203160700&path-prefix=en",
+    image: "https://www.fightersgeneration.com/nf7/char/tekken7/marduk-tekken7-artwork-by-junny.jpg",
     supermove: "During Rage, Back + 1 + 2"
 )
 
@@ -87,7 +87,7 @@ FighterTZ1 = Fighter.create(
     fighting_game_id: FightingGame1.id,
     fight_style_id: FightStyle3.id,
     name: "Geese Howard",
-    image: "https://static.wikia.nocookie.net/tekken/images/f/f6/Tekken7-Geese.jpg/revision/latest?cb=20170718111915&path-prefix=en",
+    image: "https://i1.sndcdn.com/artworks-000349742262-hwokq8-t500x500.jpg",
     supermove: "During Rage, Down/Back + 1 + 1"
 )
 
@@ -103,7 +103,7 @@ FighterTZ3 = Fighter.create(
     fighting_game_id: FightingGame1.id,
     fight_style_id: FightStyle3.id,
     name: "Noctis",
-    image: "https://static.wikia.nocookie.net/tekken/images/6/66/Noctis_T7.jpg/revision/latest?cb=20171115011652&path-prefix=en",
+    image: "https://www.thexboxhub.com/wp-content/uploads/2018/03/noctis-tekken-7-ffxv.jpg",
     supermove: "During Rage, Down + 1 + 2"
 )
 
@@ -173,7 +173,7 @@ FighterIB1 = Fighter.create(
     fighting_game_id: FightingGame4.id,
     fight_style_id: FightStyle1.id,
     name: "Batman",
-    image: "https://static.wikia.nocookie.net/injusticegodsamongus/images/c/c4/Injustice2-BATMAN-wallpaper-MOBILE-49546165.jpg/revision/latest?cb=20171027231117",
+    image: "http://oyster.ignimgs.com/mediawiki/apis.ign.com/injustice-2/6/68/Batmanportrait.png",
     supermove: "Both Trigger Buttons when meter is full"
 )
 
@@ -182,7 +182,7 @@ FighterIG1 = Fighter.create(
     fighting_game_id: FightingGame4.id,
     fight_style_id: FightStyle2.id,
     name: "Bane",
-    image: "https://static.wikia.nocookie.net/injusticegodsamongus/images/c/c7/Injustice2Bane.jpg/revision/latest?cb=20180606212351",
+    image: "https://i.ytimg.com/vi/gNDIBhJ4Zyk/maxresdefault.jpg",
     supermove: "Both Trigger Buttons when meter is full"
 )
 
@@ -191,7 +191,7 @@ FighterIZ1 = Fighter.create(
     fighting_game_id: FightingGame4.id,
     fight_style_id: FightStyle3.id,
     name: "StarFire",
-    image: "https://static.wikia.nocookie.net/injusticegodsamongus/images/7/75/Injustice2-STARFIRE-wallpaper-MOBILE-75.jpg/revision/latest?cb=20170918193349",
+    image: "https://i.ytimg.com/vi/NlhU1BB61jM/maxresdefault.jpg",
     supermove:"Both Trigger Buttons when meter is full"
 )
 
