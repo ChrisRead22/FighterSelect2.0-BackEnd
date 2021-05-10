@@ -61,7 +61,7 @@ FighterTG1 = Fighter.create(
     fighting_game_id: FightingGame1.id,
     fight_style_id: FightStyle2.id,
     name: "King",
-    image: "https://i.makeagif.com/media/8-18-2015/QwNpLb.gif",
+    image: "https://steamuserimages-a.akamaihd.net/ugc/866234140303608643/4E5F8A0F2DE78B866D5095D8F1649FA4655B4D7A/",
     supermove: "During Rage, Down/Back + 1 + 2"
 )
 
@@ -115,7 +115,7 @@ FighterSB1 = Fighter.create(
     fighting_game_id: FightingGame2.id,
     fight_style_id: FightStyle1.id,
     name: "Ryu",
-    image: "https://img.redbull.com/images/c_fill,w_1500,h_1000,g_auto,f_auto,q_auto/redbullcom/2015/10/14/1331753681574_2/street-fighter-v-ryu-screenshot",
+    image: "https://www.fightersgeneration.com/nf8/char3/ryu-streetfighter-the-movie-hadouken.gif",
     supermove: "Quarter Circle/Forward(2x) + Punch"
 )
 
@@ -123,7 +123,7 @@ FighterSB2 = Fighter.create(
     fighting_game_id: FightingGame2.id,
     fight_style_id: FightStyle1.id,
     name: "Cammy",
-    image: "https://www.pngkit.com/png/detail/182-1828644_cammy-street-fighter-pose-street-fighter-v-wallpaper.png",
+    image: "https://i.pinimg.com/originals/1a/c0/4d/1ac04db4cd499fb126cb2f5ab9767ea2.gif",
     supermove: "Quarter Circle/Forward(2x) + Kick"
 )
 
@@ -139,7 +139,7 @@ FighterSG2 = Fighter.create(
     fighting_game_id: FightingGame2.id,
     fight_style_id: FightStyle2.id,
     name: "Birdie",
-    image: "https://img.redbull.com/images/c_crop,x_310,y_0,h_660,w_990/c_fill,w_860,h_573/q_auto,f_auto/redbullcom/2019/05/14/a8683df7-c686-4696-9778-0e0b0d001bd8/birdie-street-fighter-v",
+    image: "https://i.imgur.com/5CRu65g.gif",
     supermove: "Quarter Circle/Forward(2x) + Punch"
 )
 
@@ -148,7 +148,7 @@ FighterSZ1 = Fighter.create(
     fighting_game_id: FightingGame2.id,
     fight_style_id: FightStyle3.id,
     name: "Dhalism",
-    image: "https://streetfighter.com/wp-content/uploads/2015/12/facebook-dhalsim.jpg",
+    image: "https://i.gifer.com/2ZWW.gif",
     supermove: "Quarter Circle/Forward(2x) + Punch (Hold to make Sun bigger)"
 )
 
@@ -156,7 +156,7 @@ FighterSZ2 = Fighter.create(
     fighting_game_id: FightingGame2.id,
     fight_style_id: FightStyle3.id,
     name: "Juri",
-    image: "https://apptrigger.com/files/2016/07/StreetFighter5_Juri01.jpg",
+    image: "https://www.fightersgeneration.com/nz3/character/juri-han-power.gif",
     supermove: "Quarter Circle/Back(2x) + Kick"
 )
 
@@ -165,7 +165,7 @@ FighterMB1 = Fighter.create(
     fighting_game_id: FightingGame3.id,
     fight_style_id: FightStyle1.id,
     name: "Johnny Cage",
-    image: "https://www.jacketars.com/wp-content/uploads/2021/04/Mortal-Kombat-11-Johnny-Cage-Vest.jpg",
+    image: "https://pa1.narvii.com/7119/228ab57d39c2018374bcf94fe450fb4e8d30c4c9r1-540-310_hq.gif",
     supermove: "Fatality(close), Forward + Back + Down(2x) + 4"
 )
 
@@ -173,7 +173,7 @@ FighterMB2 = Fighter.create(
     fighting_game_id: FightingGame3.id,
     fight_style_id: FightStyle1.id,
     name: "Scorpion",
-    image: "https://i.pinimg.com/originals/5d/d1/07/5dd107a6cd4fbef0f2100b45be7b849c.jpg",
+    image: "https://giffiles.alphacoders.com/209/209473.gif",
     supermove: "Fatality(Far), Down + Forward + Back + 2"
 )
 
@@ -182,7 +182,7 @@ FighterMG1 = Fighter.create(
     fighting_game_id: FightingGame3.id,
     fight_style_id: FightStyle2.id,
     name: "Geras",
-    image: "https://i1.wp.com/media.criticalhit.net//2020/01/Geras.jpg?w=850&ssl=1",
+    image: "https://i.imgur.com/L5DHuDx.gif",
     supermove: "Fatality(anywhere), Back + Down(2x) + 3"
 )
 
@@ -190,7 +190,7 @@ FighterMG2 = Fighter.create(
     fighting_game_id: FightingGame3.id,
     fight_style_id: FightStyle2.id,
     name: "Jax",
-    image: "https://cdnb.artstation.com/p/assets/images/images/018/389/361/original/alexandre-grenier-marcil-jax-punch2.gif?1559184188",
+    image: "https://64.media.tumblr.com/80c61837f9c2eb172491ee318ea5a30b/e828fb6846a9d60f-22/s500x750/b046eeb9476cc7826ba9b9cf8af71eaec56a00cf.gifv",
     supermove: "Fatality(close), Forward + Down + Forward + 3"
 )
 
@@ -199,7 +199,7 @@ FighterMZ1 = Fighter.create(
     fighting_game_id: FightingGame3.id,
     fight_style_id: FightStyle3.id,
     name: "Erron Black",
-    image: "https://images.gamertagzero.com/spai/w_977+q_lossy+ret_img+to_webp/https://gamertagzero.com/wp-content/uploads/2019/05/Erron-black-guide.jpg",
+    image: "https://cutewallpaper.org/21/erron-black-wallpapers/Mortal-Kombat-11-Erron-Black-Intros-and-Victories-GIF.gif",
     supermove: "Fatality(Mid), Down(3x) + 1"
 )
 
@@ -207,7 +207,7 @@ FighterMZ2 = Fighter.create(
     fighting_game_id: FightingGame3.id,
     fight_style_id: FightStyle3.id,
     name: "Cetrion",
-    image: "http://shoryuken.com/wp-content/uploads/2019/04/Cetrion-Reveal-Trailer-Featured-Image.png",
+    image: "https://thumbs.gfycat.com/CoarseHoarseGnu-size_restricted.gif",
     supermove: "Fatality(Mid), Back + Down + Forward + Down + 4"
 )
 
@@ -218,7 +218,7 @@ FighterIB1 = Fighter.create(
     fighting_game_id: FightingGame4.id,
     fight_style_id: FightStyle1.id,
     name: "Batman",
-    image: "http://oyster.ignimgs.com/mediawiki/apis.ign.com/injustice-2/6/68/Batmanportrait.png",
+    image: "https://64.media.tumblr.com/418fa65c52e88a1ff5c41689a8102ca6/tumblr_p2tavrZfIF1vx71ngo1_500.gifv",
     supermove: "Both Trigger Buttons when meter is full"
 )
 
@@ -227,7 +227,7 @@ FighterIG1 = Fighter.create(
     fighting_game_id: FightingGame4.id,
     fight_style_id: FightStyle2.id,
     name: "Bane",
-    image: "https://i.ytimg.com/vi/gNDIBhJ4Zyk/maxresdefault.jpg",
+    image: "https://media.giphy.com/media/14r5oDfU8WSstq/giphy.gif",
     supermove: "Both Trigger Buttons when meter is full"
 )
 
@@ -236,7 +236,7 @@ FighterIZ1 = Fighter.create(
     fighting_game_id: FightingGame4.id,
     fight_style_id: FightStyle3.id,
     name: "StarFire",
-    image: "https://i.ytimg.com/vi/NlhU1BB61jM/maxresdefault.jpg",
+    image: "https://64.media.tumblr.com/03c24e513869c5f492ade10ea23d7f2b/tumblr_oue595p23a1vx71ngo1_500.gifv",
     supermove:"Both Trigger Buttons when meter is full"
 )
 
