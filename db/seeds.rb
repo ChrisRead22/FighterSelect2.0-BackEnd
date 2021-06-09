@@ -55,6 +55,14 @@ FighterTB3 = Fighter.create(
     supermove: "During Rage, Foward*Down, Down/Forward + 1 + 4 (quickly Up/Forward)"
 )
 
+FighterTB4 = Fighter.create(
+    fighting_game_id: FightingGame1.id,
+    fight_style_id: FightStyle1.id,
+    name: "Paul Phoenix",
+    image: "https://steamuserimages-a.akamaihd.net/ugc/916923607351153070/3FD0935E1E686683215BFAB5C6733C9A9B53A7A3/",
+    supermove: "During Rage, 1+2"
+)
+
 
 
 FighterTG1 = Fighter.create(
