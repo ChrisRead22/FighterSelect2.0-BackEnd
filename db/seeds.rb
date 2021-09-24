@@ -67,7 +67,7 @@ FighterTB5 = Fighter.create(
     fighting_game_id: FightingGame1.id,
     fight_style_id: FightStyle1.id,
     name: "Marshall Law",
-    image: "",
+    image: "https://64.media.tumblr.com/9eac94205556ae8baeb7a716ae606060/tumblr_p4q5ud7SNt1w37z0to2_540.gifv",
     supermove: "During Rage, 1+2"
 )
 
