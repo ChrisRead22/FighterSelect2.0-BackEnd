@@ -71,6 +71,14 @@ FighterTB5 = Fighter.create(
     supermove: "During Rage, 1+2"
 )
 
+FighterTB6 = Fighter.create(
+    fighting_game_id: FightingGame1.id,
+    fight_style_id: FightStyle1.id,
+    name: "Steve Fox",
+    image: "",
+    supermove: "During Rage, 1+2"
+)
+
 
 
 FighterTG1 = Fighter.create(
