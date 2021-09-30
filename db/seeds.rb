@@ -75,7 +75,7 @@ FighterTB6 = Fighter.create(
     fighting_game_id: FightingGame1.id,
     fight_style_id: FightStyle1.id,
     name: "Steve Fox",
-    image: "",
+    image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b2016cf6-1182-4732-a816-2f9e6d020705/d8b7tir-2898fd80-cde0-4a32-a7aa-0ad44e0eaeff.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IyMDE2Y2Y2LTExODItNDczMi1hODE2LTJmOWU2ZDAyMDcwNVwvZDhiN3Rpci0yODk4ZmQ4MC1jZGUwLTRhMzItYTdhYS0wYWQ0NGUwZWFlZmYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UxCcKvOO6Iac2fZ4Iw0o3J-OJqf6h4v6URgLwc9H_tU",
     supermove: "During Rage, 1+2"
 )
 
