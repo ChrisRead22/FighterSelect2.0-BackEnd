@@ -153,6 +153,14 @@ FighterTZ4 = Fighter.create(
     supermove: "During Rage, Down/forward + 1 + 2"
 )
 
+FighterTZ4 = Fighter.create(
+    fighting_game_id: FightingGame1.id,
+    fight_style_id: FightStyle3.id,
+    name: "Devil Jin",
+    image: "https://c.tenor.com/LnpY8y3aI1wAAAAC/tekken-deviljin.gif",
+    supermove: "During Rage, Back + 1 + 2"
+)
+
 
 
 
