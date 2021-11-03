@@ -149,7 +149,7 @@ FighterTZ4 = Fighter.create(
     fighting_game_id: FightingGame1.id,
     fight_style_id: FightStyle3.id,
     name: "Claudio",
-    image: "https://64.media.tumblr.com/ea8703f619c716c3679221c6901de333/tumblr_ozci0q50hP1s6ub5do5_500.gifv",
+    image: "https://static.wikia.nocookie.net/tekken/images/0/08/T7_Rage_Arte.gif/revision/latest?cb=20150315155244&path-prefix=en",
     supermove: "During Rage, Down/forward + 1 + 2"
 )
 
