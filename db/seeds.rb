@@ -165,7 +165,7 @@ FighterTZ4 = Fighter.create(
     fighting_game_id: FightingGame1.id,
     fight_style_id: FightStyle3.id,
     name: "Alisa",
-    image: "",
+    image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eed02953-02dd-4360-9890-8338f0fd00e9/das14cj-55907d4b-3097-4684-b6c0-3f1abf8bfdfe.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VlZDAyOTUzLTAyZGQtNDM2MC05ODkwLTgzMzhmMGZkMDBlOVwvZGFzMTRjai01NTkwN2Q0Yi0zMDk3LTQ2ODQtYjZjMC0zZjFhYmY4YmZkZmUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZQnjKtHd-m9mxC-pJRWlpo1oVGl3tPUTq_al_41NRHI",
     supermove: "During Rage, Back + 1 + 2"
 )
 
