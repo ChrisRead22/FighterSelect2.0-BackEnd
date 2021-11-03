@@ -161,6 +161,14 @@ FighterTZ4 = Fighter.create(
     supermove: "During Rage, Back + 1 + 2"
 )
 
+FighterTZ4 = Fighter.create(
+    fighting_game_id: FightingGame1.id,
+    fight_style_id: FightStyle3.id,
+    name: "Alisa",
+    image: "",
+    supermove: "During Rage, Back + 1 + 2"
+)
+
 
 
 
