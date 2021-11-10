@@ -136,6 +136,14 @@ FighterTG3 = Fighter.create(
     supermove: "During Rage, Back + 1 + 2"
 )
 
+FighterTG4 = Fighter.create(
+    fighting_game_id: FightingGame1.id,
+    fight_style_id: FightStyle2.id,
+    name: "Marduk",
+    image: "https://64.media.tumblr.com/3eadf6e62e4be6735cdddd95558c85a6/tumblr_pj6dwp1t471v35nfgo3_500.gifv",
+    supermove: "During Rage, Back + 1 + 2"
+)
+
 
 
 FighterTZ1 = Fighter.create(
