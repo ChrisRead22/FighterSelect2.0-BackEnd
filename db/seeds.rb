@@ -153,7 +153,7 @@ FighterTZ4 = Fighter.create(
     supermove: "During Rage, Down/forward + 1 + 2"
 )
 
-FighterTZ4 = Fighter.create(
+FighterTZ5 = Fighter.create(
     fighting_game_id: FightingGame1.id,
     fight_style_id: FightStyle3.id,
     name: "Devil Jin",
@@ -161,7 +161,7 @@ FighterTZ4 = Fighter.create(
     supermove: "During Rage, Back + 1 + 2"
 )
 
-FighterTZ4 = Fighter.create(
+FighterTZ6 = Fighter.create(
     fighting_game_id: FightingGame1.id,
     fight_style_id: FightStyle3.id,
     name: "Alisa",
