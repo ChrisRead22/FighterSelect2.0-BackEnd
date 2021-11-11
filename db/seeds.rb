@@ -115,7 +115,7 @@ FighterTB11 = Fighter.create(
     fighting_game_id: FightingGame1.id,
     fight_style_id: FightStyle1.id,
     name: "Hwoarang",
-    image: "https://steamuserimages-a.akamaihd.net/ugc/921428372495814629/480E483DCC664E929F28FC9B3BDAE14DD4BB89BA/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+    image: "https://64.media.tumblr.com/93c5afe262d09427091d332fc207f3a2/tumblr_olxt7gH21G1r082vzo1_540.gifv",
     supermove: "During Rage, Down + 3 + 4"
 )
 
