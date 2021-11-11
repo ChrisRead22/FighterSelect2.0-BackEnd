@@ -99,7 +99,7 @@ FighterTB9 = Fighter.create(
     fighting_game_id: FightingGame1.id,
     fight_style_id: FightStyle1.id,
     name: "Nina",
-    image: "https://static.zerochan.net/Nina.Williams.full.2409776.gif",
+    image: "https://steamuserimages-a.akamaihd.net/ugc/838081065914102490/E4FFFC8C32F68760311D14FFAFC9418BDD4374B0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
     supermove: "During Rage, Down + 1 + 2"
 )
 
