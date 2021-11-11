@@ -156,7 +156,7 @@ FighterTG5 = Fighter.create(
     fighting_game_id: FightingGame1.id,
     fight_style_id: FightStyle2.id,
     name: "Asuka",
-    image: "https://64.media.tumblr.com/7c356489d274cadf1c136629f0fa6a7a/tumblr_pj4vixkpQN1uq6svio1_540.gifv",
+    image: "https://c.tenor.com/7nX_mcU1nrwAAAAC/tekken-asuka.gif",
     supermove: "During Rage, Down/Forward + 1 + 2"
 )
 
