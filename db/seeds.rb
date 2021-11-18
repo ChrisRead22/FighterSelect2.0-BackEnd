@@ -122,8 +122,8 @@ FighterTB11 = Fighter.create(
 FighterTB12 = Fighter.create(
     fighting_game_id: FightingGame1.id,
     fight_style_id: FightStyle1.id,
-    name: "Hwoarang",
-    image: "https://64.media.tumblr.com/93c5afe262d09427091d332fc207f3a2/tumblr_olxt7gH21G1r082vzo1_540.gifv",
+    name: "Eddy",
+    image: "",
     supermove: "During Rage, Down + 3 + 4"
 )
 
