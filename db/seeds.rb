@@ -123,7 +123,7 @@ FighterTB12 = Fighter.create(
     fighting_game_id: FightingGame1.id,
     fight_style_id: FightStyle1.id,
     name: "Eddy",
-    image: "",
+    image: "https://www.fightersgeneration.com/nf7/char/eddy-gordo-tekken7-intro.gif",
     supermove: "During Rage, Down + 3 + 4"
 )
 
