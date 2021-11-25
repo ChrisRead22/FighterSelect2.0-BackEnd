@@ -135,6 +135,14 @@ FighterTB13 = Fighter.create(
     supermove: "During Rage, Back + 1 + 2"
 )
 
+FighterTB13 = Fighter.create(
+    fighting_game_id: FightingGame1.id,
+    fight_style_id: FightStyle1.id,
+    name: "Miguel",
+    image: "https://www.fightersgeneration.com/news2020/char/miguel-tekken7-gif.gif",
+    supermove: "During Rage, Back + 1 + 2"
+)
+
 
 FighterTG1 = Fighter.create(
     fighting_game_id: FightingGame1.id,
