@@ -140,7 +140,7 @@ FighterTB14 = Fighter.create(
     fight_style_id: FightStyle1.id,
     name: "Shaheen",
     image: "https://www.fightersgeneration.com/news2020/char/miguel-tekken7-gif.gif",
-    supermove: "During Rage, Back + 1 + 2"
+    supermove: "During Rage, 1 + 2"
 )
 
 
