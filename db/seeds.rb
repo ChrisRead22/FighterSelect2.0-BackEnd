@@ -243,6 +243,14 @@ FighterTZ7 = Fighter.create(
     supermove: "During Rage, Back + 1 + 2"
 )
 
+FighterTZ8 = Fighter.create(
+    fighting_game_id: FightingGame1.id,
+    fight_style_id: FightStyle3.id,
+    name: "Yoshimitsu",
+    image: "https://64.media.tumblr.com/001df4516f63e86395084f85daf8be9b/tumblr_no0ls0hCa11rnk8peo2_540.gifv",
+    supermove: "During Rage, Back + 1 + 2"
+)
+
 
 
 
