@@ -259,11 +259,11 @@ FighterTZ9 = Fighter.create(
     supermove: "During Rage, Down + 1 + 2"
 )
 
-FighterTZ8 = Fighter.create(
+FighterTZ10 = Fighter.create(
     fighting_game_id: FightingGame1.id,
     fight_style_id: FightStyle3.id,
     name: "Josie",
-    image: "https://media0.giphy.com/media/UcywOZE3fd4vXVfvzq/giphy.gif",
+    image: "https://i.imgur.com/UGgUEWN.gif",
     supermove: "During Rage, Down/forward + 3 + 4"
 )
 
