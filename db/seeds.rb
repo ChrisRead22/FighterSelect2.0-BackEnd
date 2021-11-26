@@ -254,9 +254,9 @@ FighterTZ8 = Fighter.create(
 FighterTZ8 = Fighter.create(
     fighting_game_id: FightingGame1.id,
     fight_style_id: FightStyle3.id,
-    name: "Eliza",
+    name: "Kazumi",
     image: "https://1.bp.blogspot.com/-iKzI_EGJ838/WX7vaHa41OI/AAAAAAAC6tQ/PXW3kMdj78EBW6h_5CUvqeII_PTwMuz-wCLcBGAs/s1600/Eliza%2BTekken%2B7.gif",
-    supermove: "During Rage, Back + 3 + 4"
+    supermove: "During Rage, Down + 1 + 2"
 )
 
 
