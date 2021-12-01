@@ -202,6 +202,14 @@ FighterTG5 = Fighter.create(
     supermove: "During Rage, Down/Forward + 1 + 2"
 )
 
+FighterTG6 = Fighter.create(
+    fighting_game_id: FightingGame1.id,
+    fight_style_id: FightStyle2.id,
+    name: "Gigas",
+    image: "",
+    supermove: "During Rage, 1 + 2"
+)
+
 
 
 
