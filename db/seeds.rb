@@ -155,7 +155,7 @@ FighterTB16 = Fighter.create(
     fighting_game_id: FightingGame1.id,
     fight_style_id: FightStyle1.id,
     name: "Katarina",
-    image: "https://c.tenor.com/0gRdtTRvu1IAAAAC/xiaoyu-ling-xiaoyu.gif",
+    image: "https://64.media.tumblr.com/30d69f5a36c060a862afeb2f7ff6919f/tumblr_nz96r32jcm1uve7bfo1_540.gifv",
     supermove: "During Rage, 3 + 4"
 )
 
