@@ -206,7 +206,7 @@ FighterTG6 = Fighter.create(
     fighting_game_id: FightingGame1.id,
     fight_style_id: FightStyle2.id,
     name: "Gigas",
-    image: "",
+    image: "https://images.gr-assets.com/hostedimages/1430427566ra/14712703.gif",
     supermove: "During Rage, 1 + 2"
 )
 
